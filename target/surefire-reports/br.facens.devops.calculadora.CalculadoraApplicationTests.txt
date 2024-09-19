@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.facens.devops.calculadora.CalculadoraApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.891 s -- in br.facens.devops.calculadora.CalculadoraApplicationTests
